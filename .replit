@@ -1,0 +1,2 @@
+language = "python"
+run = "pip install pytest; cd src; python3 exercise.py"
